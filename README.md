@@ -1,4 +1,4 @@
-# Exchange Rate Calculator
+# XchangePro
 
 A simple web application that allows users to convert currencies based on live exchange rates. Users can select the currencies they want to convert between, input an amount, and view the converted value instantly. The application also provides a "Swap" button to reverse the currencies.
 
